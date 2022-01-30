@@ -7,6 +7,7 @@ In this project I will build a full web application of AirBnB clone. This projec
 
 The console is a command line interpreter that permits management of the backend of HolbertonBnB. It can be used to handle and manipulate all classes utilized by the application.
 
+<<<<<<< HEAD
       USAGE OF THE CONSOLE
 
 --<b>creat</b>
@@ -129,3 +130,11 @@ aa229cbb-5b19-4c32-8562-f90a3437d301
 (hbnb) city.count()
 1
 (hbnb)
+=======
+     ||  Using the Console   ||
+     
+The console can be run both interactively and non-interactively. To run the console in non-interactive mode, pipe any command(s) into an execution of the file console.py at the command line.
+
+
+      
+>>>>>>> 723bd41d1b7bb54a516c8b5acc96bc21be1c9938
